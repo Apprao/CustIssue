@@ -3,6 +3,7 @@
     <version>41.0</version>
     <types>
         <members>Obj33__c.TestFieldProfile6__c</members>
+        <members>TestObj22__c.Field02__c</members>
         <name>CustomField</name>
     </types>
     <types>

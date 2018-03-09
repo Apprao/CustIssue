@@ -36,5 +36,10 @@
         <field>Obj33__c.TestFieldProfile__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>TestObj22__c.Field02__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
 </Profile>
